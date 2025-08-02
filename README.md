@@ -49,19 +49,19 @@
 ## 📊 Estadísticas de GitHub
 
 ### 🔥 Racha de contribuciones
-![GitHub Streak](https://streak-stats.demolab.com?user=AndresCebay&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AndresCebay-ADSO&theme=tokyonight&hide_border=true)
 
 ### 📈 Actividad reciente
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndresCebay&theme=github-dark&hide_border=true)](https://github.com/AndresCebay)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndresCebay-ADSO&theme=github-dark&hide_border=true)](https://github.com/AndresCebay-ADSO)
 
 ### 📌 Resumen de mi perfil
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresCebay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresCebay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresCebay-ADSO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresCebay-ADSO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%">
 </p>
 
 ### 🏆 Trofeos de GitHub
-![Trophies](https://github-profile-trophy.vercel.app/?username=AndresCebay&theme=onedark&no-frame=true&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AndresCebay-ADSO&theme=onedark&no-frame=true&column=4)
 
 ---
 
