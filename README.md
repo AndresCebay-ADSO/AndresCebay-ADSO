@@ -47,10 +47,21 @@
 ---
 
 ## 📊 Estadísticas de GitHub
+
+### 🔥 Racha de contribuciones
+![GitHub Streak](https://streak-stats.demolab.com?user=AndresCebay&theme=tokyonight&hide_border=true)
+
+### 📈 Actividad reciente
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndresCebay&theme=github-dark&hide_border=true)](https://github.com/AndresCebay)
+
+### 📌 Resumen de mi perfil
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresCebay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresCebay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%">
 </p>
+
+### 🏆 Trofeos de GitHub
+![Trophies](https://github-profile-trophy.vercel.app/?username=AndresCebay&theme=onedark&no-frame=true&column=4)
 
 ---
 
@@ -65,6 +76,3 @@
   <a href="mailto:cebayy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/andres-cebay-7a4106303/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-</br></br>
-	
