@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hola, soy Andres Cebay
 
-<!--
-**AndresCebay-ADSO/AndresCebay-ADSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de Software enfocado en el desarrollo de aplicaciones web con **Laravel (PHP)** y **bases de datos relacionales**.  
+Me gusta construir sistemas reales, optimizar procesos y desarrollar soluciones funcionales para negocios.
 
-Here are some ideas to get you started:
+Actualmente me encuentro en búsqueda de una **práctica profesional** como desarrollador backend o fullstack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+- **Backend:** Laravel, PHP  
+- **Frontend:** Blade, HTML, CSS, Tailwind CSS  
+- **Bases de datos:** MySQL, PostgreSQL  
+- **Control de versiones:** Git & GitHub  
+- **Otros:** JavaScript (básico), documentación técnica (IEEE 830)
+
+---
+
+## 📌 Proyectos destacados
+
+### 🥾 SOCS - Sistema Online de Comercialización de Calzado
+Plataforma e-commerce desarrollada en Laravel con autenticación, roles, gestión de productos y diseño responsive.
+
+🔗 Repositorio: (agrega aquí el link cuando lo subas)
+
+---
+
+### 🍗 Brasa Criolla - Sistema POS para restaurante
+Sistema de punto de venta enfocado en pedidos, inventario y gestión administrativa para restaurante.
+
+🔗 Repositorio: (agrega aquí el link cuando lo subas)
+
+---
+
+### 🏍️ TallerMoto Pro - Sistema de gestión para taller de motos
+Sistema administrativo para control de clientes, órdenes de servicio, facturación y reportes.
+
+🔗 Repositorio: (agrega aquí el link cuando lo subas)
+
+---
+
+## 📈 En qué estoy trabajando actualmente
+- Mejorando mis proyectos en Laravel y optimizando estructura de código
+- Creando documentación técnica y funcional para sistemas reales
+- Preparación para práctica profesional y entrevistas técnicas
+
+---
+
+## 📫 Contacto
+
+📍 Cali, Colombia  
+📧 Email: **cebayy044@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/andrescebay/
+
+---
+
+⭐ Si quieres ver mis proyectos, revisa los repositorios fijados en mi perfil.
