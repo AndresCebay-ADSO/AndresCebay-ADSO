@@ -22,21 +22,21 @@ Actualmente me encuentro en búsqueda de una **práctica profesional** como desa
 ### 🥾 SOCS - Sistema Online de Comercialización de Calzado
 Plataforma e-commerce desarrollada en Laravel con autenticación, roles, gestión de productos y diseño responsive.
 
-🔗 Repositorio: (agrega aquí el link cuando lo subas)
+🔗 Repositorio: https://github.com/AndresCebay-ADSO/SOCS-BODEGAZO
 
 ---
 
 ### 🍗 Brasa Criolla - Sistema POS para restaurante
 Sistema de punto de venta enfocado en pedidos, inventario y gestión administrativa para restaurante.
 
-🔗 Repositorio: (https://github.com/AndresCebay-ADSO/BRASA_CRIOLLA)
+🔗 Repositorio: https://github.com/AndresCebay-ADSO/BRASA_CRIOLLA
 
 ---
 
 ### 🏍️ TallerMoto Pro - Sistema de gestión para taller de motos
 Sistema administrativo para control de clientes, órdenes de servicio, facturación y reportes.
 
-🔗 Repositorio: https://github.com/AndresCebay-ADSO/BRASA_CRIOLLA
+🔗 Repositorio: https://github.com/AndresCebay-ADSO/taller-mecanico-elflaco
 
 ---
 
